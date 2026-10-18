@@ -5,6 +5,7 @@
 > [!WARNING]
 > **Work in progress — Woods Studio Labs.** This repository is not a complete, validated installation tool or a substitute for the [Dortania OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/). Instructions and downloads may change. Do not use this project on a computer containing irreplaceable data without verified backups.
 >
+> Web Guide (Recommended!!): https://guide.projectmac.woodsstudio.dev \
 > Project website: https://projectmac.woodsstudio.dev/  
 > Labs website: https://labs.woodsstudio.dev/
 
